@@ -13,7 +13,7 @@ APP_ID、API_KEY、SECRET_KEY
 # 使用方法
 ### 1.在linux系统下，开启2个终端窗口
 
-### 2.cd ~\rot_vlm\src\camera_cloud_processing
+### 2.cd ~\robot_vlm\src\camera_cloud_processing
 
 ### 3.Terminal 1 先执行 python camera_publisher.py
 
